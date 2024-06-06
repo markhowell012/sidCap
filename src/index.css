@@ -1,0 +1,210 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@400;500;600;700;800&display=swap");
+
+@layer components {
+  .customTransition {
+    @apply transition ease-in-out duration-300;
+  }
+
+  .marginBody {
+    @apply max-w-[90%] 1440:max-w-[1280px];
+  }
+
+  .marginNav {
+    @apply px-[8%] md:px-[64px];
+  }
+
+  .heading1 {
+    @apply text-[38px] md:text-[48px] lg:text-[56px] font-bold text-secondary;
+  }
+
+  .heading1-primary {
+    @apply text-[38px] md:text-[48px] lg:text-[56px] font-bold text-primary;
+  }
+
+  .heading2 {
+    @apply text-[26px] md:text-[34px] lg:text-[48px] text-primary;
+  }
+
+  .heading3 {
+    @apply text-lg md:text-xl lg:text-2xl text-light;
+  }
+
+  .paragraph1 {
+    @apply text-lighttext text-sm md:text-base;
+  }
+
+  .paragraph2 {
+    @apply text-base sm:text-lg md:text-xl lg:text-2xl text-light;
+  }
+}
+
+* {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: "Lexend Deca", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.hideScrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.hideScrollbar {
+  -ms-overflow-style: none;
+  /* IE and Edge */
+  scrollbar-width: none;
+  /* Firefox */
+}
+
+.businessLineCreditBGImage {
+  width: 100%;
+  height: auto;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("/public/assets/images/Depositphotos_BG.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+
+.invoiceFinancingBGImage {
+  width: 100%;
+  height: auto;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("/public/assets/images/Depositphotos_BG_02.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+
+.equipmentFinanceBGImage {
+  width: 100%;
+  min-height: 765px;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("/public/assets/images/heavy-equipment.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.commercialLoanBGImage {
+  width: 100%;
+  height: auto;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("/public/assets/images/commercial-black-bg.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.shortTermLoanBGImage {
+  width: 100%;
+  height: auto;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("/public/assets/images/short-term-black-bg.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.termLoanBGImage {
+  width: 100%;
+  height: auto;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("/public/assets/images/term-loan-black-bg.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.merchantCashAdvanceBGImage {
+  width: 100%;
+  min-height: 650px;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("/public/assets/images/Merchant-Cash-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.SBALoanBGImage {
+  width: 100%;
+  min-height: 650px;
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url("/public/assets/images/sba-loan-07.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.custom_checkbox {
+  position: relative;
+  width: 1.5em;
+  height: 1.5em;
+  z-index: 50;
+  background: #2b333a;
+  border-radius: 6px;
+  appearance: none;
+  outline: 0;
+  cursor: pointer;
+  transition: red;
+}
+
+.custom_checkbox::before {
+  position: absolute;
+  content: '';
+  display: block;
+  top: 5px;
+  left: 9px;
+  width: 7px;
+  height: 12px;
+  border-radius: 1px;
+  border-style: solid;
+  border-color: white;
+  border-width: 0 2px 2px 0;
+  transform: rotate(45deg);
+  opacity: 0;
+}
+
+.custom_checkbox:hover {
+  background: #42474e;
+}
+
+.custom_checkbox:checked {
+  color: white;
+  background: #ffc300;
+}
+
+.custom_checkbox:checked::before {
+  opacity: 1;
+}
+
+.custom_checkbox:checked ~ label::before {
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+}
+.incorrect-username{
+  color: red;
+}
