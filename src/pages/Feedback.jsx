@@ -9,7 +9,7 @@ const Feedback = () => {
       <div className="marginBody mx-auto">
         <DualColumns mediaImage="/assets/images/Feedback-Image.png">
           <div className="flex flex-col gap-3 md:gap-6 m-auto">
-            <h2 className="heading1 !text-light !font-medium">
+            <h2 className="heading1 !font-medium">
               We'd love <br />
               <span className="text-primary">to hear from you.</span>
             </h2>

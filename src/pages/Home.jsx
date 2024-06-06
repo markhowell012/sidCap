@@ -62,9 +62,9 @@ const Home = () => {
                   viewport={{ once: true, amount: 0.25 }}
                 >
                 <h2 className="heading1-primary">
-                  Business funding is what{" "}
+                Supporting businesses financially{" "}
                   <span className="relative" ref={spanRef}>
-                    we do
+                  is our expertise.
                     <svg
                       width={spanWidth}
                       className="absolute -bottom-4 left-0"
@@ -95,68 +95,7 @@ const Home = () => {
                 />
               </div>
               <div className="bg-slate-400 h-[1px] w-full" />
-              <div className="flex items-center flex-wrap 1110:flex-nowrap gap-6">
-                <div className="flex items-center">
-                  <motion.image
-                    variants={textVariantX(0.1)}
-                    initial="hidden"
-                    whileInView="show"
-                    viewport={{ once: true, amount: 0.25 }}
-                  >
-                    <img
-                      src="/assets/images/Startup-User-1.webp"
-                      alt="Entrepreneurs"
-                      className="w-[50px] min-w-[50px] max-w-[50px] rounded-full "
-                    />
-                  </motion.image>
-                  <motion.image
-                    variants={textVariantX(0.2)}
-                    initial="hidden"
-                    whileInView="show"
-                    viewport={{ once: true, amount: 0.25 }}
-                  >
-                    <img
-                      src="/assets/images/Startup-User-2.webp"
-                      alt="Entrepreneurs"
-                      className="-ml-3 w-[50px] min-w-[50px] max-w-[50px] rounded-full "
-                    />
-                  </motion.image>
-                  <motion.image
-                    variants={textVariantX(0.3)}
-                    initial="hidden"
-                    whileInView="show"
-                    viewport={{ once: true, amount: 0.25 }}
-                  >
-                    <img
-                      src="/assets/images/Startup-User-3.webp"
-                      alt="Entrepreneurs"
-                      className="-ml-3 w-[50px] min-w-[50px] max-w-[50px] rounded-full "
-                    />
-                  </motion.image>
 
-                  <motion.div
-                    variants={textVariantX(0.4)}
-                    initial="hidden"
-                    whileInView="show"
-                    viewport={{ once: true, amount: 0.25 }}
-                  >
-                    <div className="text-secondary text-xs -ml-3 flex items-center rounded-full justify-center bg-white border w-[50px] min-w-[50px] max-w-[50px] h-[50px] min-h-[50px] max-h-[50px]">
-                      300+
-                    </div>
-                  </motion.div>
-                </div>
-
-                <motion.p
-                  variants={textVariant(0.6, 0)}
-                  initial="hidden"
-                  whileInView="show"
-                  viewport={{ once: true, amount: 0.25 }}
-                >
-                  <p className="paragraph1 ">
-                    Join other enterpreneurs who used Sidwell Capital funding for their business!
-                  </p>
-                </motion.p>
-              </div>
             </div>
           </div>
           <div

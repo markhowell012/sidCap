@@ -34,7 +34,6 @@ const HeroSection = () => {
     <div
       className="bg-background flex flex-col items-center justify-center gap-14 py-8 w-full text-secondary"
       style={{
-        backgroundImage: "url(/assets/images/bg-hero-section.png)",
         backgroundPosition: " center",
         backgroundRepeat: " no-repeat",
         backgroundSize: " cover",
@@ -46,7 +45,7 @@ const HeroSection = () => {
 
         </div>
         <div className="flex items-center gap-3">
-          <p className="paragraph2 ">404-920-4946</p>
+          <p className="paragraph2 ">212-548-6541</p>
           <FaPhone size={24} />
         </div>
       </div>

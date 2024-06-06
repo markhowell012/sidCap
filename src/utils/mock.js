@@ -279,37 +279,37 @@ export const FOOTER_LINKS = [
 export const TRUSTEDBY = [
   {
     id: 1,
-    name: "Leslie Alexander",
+    name: "Emily Johnson",
     description:
-      "I've had nothing but positive experiences with this company. Their dedication to simplifying small business funding is truly remarkable, and it shows in every aspect of their service. The application process was quick and easy, and I was impressed with how tailored their options were to my specific needs.",
+      "I can't say enough good things about this company! From start to finish, they've made the process of securing funding for my small business a breeze. Their commitment to streamlining the entire experience is evident, and it's clear that they prioritize making things easy for their clients. I was pleasantly surprised by how seamlessly the application process went, and the personalized options they provided were exactly what I needed. I highly recommend them to any small business owner looking for hassle-free funding solutions.",
     imageSrc: "/assets/images/User-Leslie.webp",
   },
   {
     id: 2,
-    name: "Dennis Hüttner",
+    name: "Michael Brown",
     description:
-      "I was initially hesitant to apply for a loan, but after hearing about this company's reputation for exceptional customer service, I decided to give it a try. I am so glad I did! The team went above and beyond to ensure that I had all of the information I needed to make informed decisions about my funding options. They were patient, understanding, and truly cared about the success of my business.",
+      "I was somewhat apprehensive about the loan application process at first, but once I learned about this company's stellar reputation for top-notch customer service, I decided to take the plunge. And let me tell you, it was one of the best decisions I've made for my business! The team exceeded my expectations, providing me with all the necessary information to navigate my funding choices with confidence. Their patience, empathy, and genuine concern for my business's prosperity truly set them apart. I couldn't be happier with the experience.",
     imageSrc: "/assets/images/User-Dennis.webp",
   },
   {
     id: 3,
-    name: "Amily Moalin",
+    name: "David Garcia",
     description:
       "As a small business owner, I've had my fair share of challenges when it comes to financing. However, since partnering with this company, I've been blown away by the level of personalized service and support they've provided me. From the start, their team took the time to understand my unique needs and crafted a loan package that fit my business like a glove. And the best part? I received a decision the same day I applied!",
     imageSrc: "/assets/images/User-Amily.webp",
   },
   {
     id: 4,
-    name: "Dianne Russell",
+    name: "Joseph Robinson",
     description:
-      "As a small business owner, I've had my fair share of frustrations trying to secure funding for my company. But then I found this business finance company and everything changed. I was able to apply quickly and easily, and within the same day. I couldn't be happier with the service I received and the peace of mind knowing that I have a trusted partner to help me grow my business.",
+      "Navigating financing as a small business owner can be quite the journey, but ever since I joined forces with this company, my experience has been nothing short of exceptional. The personalized service and support they offer have truly surpassed my expectations. Right from the get-go, their team demonstrated a keen understanding of my business's specific requirements, tailoring a loan package that felt like it was made just for me. And talk about efficiency – I was thrilled to receive a decision on my application the very same day I applied! It's safe to say I've found my go-to partner for all my financing needs.",
     imageSrc: "/assets/images/User-Dianne.webp",
   },
   {
     id: 5,
-    name: "Kristin Watson",
+    name: "Olivia Smith",
     description:
-      "I was blown away by the level of personalized service I received from this business finance company. From the easy online application process to the quick decision and fast funding, everything was seamless and stress-free. I would highly recommend this company to any small business owner looking for a reliable and trustworthy partner to help them grow and thrive.",
+      "I was truly impressed by the exceptional level of personalized service provided by this business finance company. Every step of the way, from the simple online application process to the speedy decision-making and fast funding, was smooth sailing and completely hassle-free. Without a doubt, I would enthusiastically recommend this company to any small business owner seeking a dependable and trustworthy partner to support their growth and success.",
     imageSrc: "/assets/images/User-Kristen.webp",
   },
 ];

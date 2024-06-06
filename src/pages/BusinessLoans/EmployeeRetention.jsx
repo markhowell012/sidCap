@@ -45,7 +45,7 @@ const EmployeeRetention = () => {
     <div className="mx-auto">
       <div className="marginBody mx-auto grid grid-cols-1 md:grid-cols-2 items-start py-8 md:py-16 gap-8">
         <div className="mt-10">
-          <p className="paragraph1 !text-light">Employee Retention Credit</p>
+          <p className="paragraph1">Employee Retention Credit</p>
           <h2 className="heading2 mb-4">Secure Employee Retention Credits At No Risk and No Cost</h2>
           <p className="paragraph1">
             ERC is a federal program that we help you file to secure refunds from your 2020 and 2021 payroll which
@@ -315,7 +315,7 @@ const EmployeeRetention = () => {
               <div className="flex items-center mb-4">
                 <BiChevronRight className="text-primary w-[20px] min-w-[20px]" />
                 <p className="paragraph1 ml-6">
-                  <span className="font-semibold !text-light">Fast Financing:</span> Once you send over your
+                  <span className="font-semibold">Fast Financing:</span> Once you send over your
                   information, our expert agents are immediately on the case! We’re able to get your business funds
                   fast.
                 </p>
@@ -323,7 +323,7 @@ const EmployeeRetention = () => {
               <div className="flex items-center mb-4">
                 <BiChevronRight className="text-primary w-[20px] min-w-[20px]" />
                 <p className="paragraph1 ml-6">
-                  <span className="font-semibold !text-light">A Committed Partner:</span> Our agents are committed to
+                  <span className="font-semibold">A Committed Partner:</span> Our agents are committed to
                   your business’s ongoing success. We’re happy to provide continuous financing solutions that advance
                   your organization.
                 </p>
@@ -331,7 +331,7 @@ const EmployeeRetention = () => {
               <div className="flex items-center mb-4">
                 <BiChevronRight className="text-primary w-[20px] min-w-[20px]" />
                 <p className="paragraph1 ml-6">
-                  <span className="font-semibold !text-light">Sprawling Connections:</span> Sidwell capital is an
+                  <span className="font-semibold ">Sprawling Connections:</span> Sidwell capital is an
                   internationally recognized organization with global connections. Work with us and tap into our network
                   of financial expertise.
                 </p>
@@ -339,7 +339,7 @@ const EmployeeRetention = () => {
               <div className="flex items-center mb-4">
                 <BiChevronRight className="text-primary w-[20px] min-w-[20px]" />
                 <p className="paragraph1 ml-6">
-                  <span className="font-semibold !text-light">Security-First Practices and Strategies:</span> We use
+                  <span className="font-semibold ">Security-First Practices and Strategies:</span> We use
                   advanced cybersecurity practices that ensure your private data stays safe.
                 </p>
               </div>

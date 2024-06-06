@@ -295,7 +295,7 @@ const Policy = () => {
           <br />
           You may use the following information to contact us with any questions
           or concerns about this Privacy Policy: <br />
-          1-404-920-4946 <br />
+          212-548-6541- <br />
           info@sidwellcapitalgroup.com
         </p>
       </div>

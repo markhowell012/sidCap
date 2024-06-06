@@ -58,8 +58,8 @@ const OnboardingSSl = () => {
         <div>
           <p className="text-[10px] text-black">
             Copyright © 2023 All Rights Reserved by Sidwell Capital •Terms of Use
-            •Privacy Policy • Call: 404-920-4946 • 90 Broad St, New York, NY
-            10004
+            •Privacy Policy • Call: 212-548-6541 • 175 5th Ave,, New York, NY
+            10010
           </p>
         </div>
       </div>

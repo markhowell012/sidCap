@@ -9,7 +9,7 @@ const Marketplace = () => {
     <div className="marginBody mx-auto p-[10px]">
       <div className="flex flex-col md:flex-row items-center gap-6">
         <div className="flex-1">
-          <h2 className="!text-light !font-medium heading1">Sidwell Capital</h2>
+          <h2 className="!font-medium heading3">Sidwell Capital</h2>
           <h2 className="!font-medium heading1-primary">
             Short Term Business Loans
           </h2>

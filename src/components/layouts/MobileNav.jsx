@@ -17,7 +17,7 @@ const MobileNav = () => {
     window.scrollTo(0, 0);
   };
   return (
-    <div className="relative marginNav lg:hidden w-full h-[66px] md:h-[125px] flex justify-between items-center">
+    <div className="relative marginNav lg:hidden w-full h-[66px] md:h-[125px] flex justify-between items-center" style={{backgroundColor: 'rgb(0 123 255)'}}>
       <div className="flex items-center justify-between w-full">
         <HiOutlineMenuAlt1
           className="text-2xl cursor-pointer"

@@ -37,7 +37,7 @@ const InvoiceFinance = () => {
     <div className="mx-auto">
       <div className="marginBody mx-auto grid grid-cols-1 md:grid-cols-2 items-start py-8 md:py-16 gap-8">
         <div className="mt-10">
-          <p className=" mb-4 paragraph1 !text-light font-sans">INVOICE FINANCING</p>
+          <p className=" mb-4 paragraph1 font-sans">INVOICE FINANCING</p>
           <h2 className="heading2 mb-4">AR Invoice Factoring for Small Business</h2>
           <p className="paragraph1 ">
             Get lightning-fast access to unlimited funds based on the size of your outstanding customer invoices

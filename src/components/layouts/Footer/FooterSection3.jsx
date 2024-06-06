@@ -14,7 +14,6 @@ const FooterSection3 = () => {
     <div
       className="w-full pb-20 md:pb-32 mt-20 md:mt-32 flex flex-col items-center justify-evenly gap-24 lg:gap-36"
       style={{
-        background: `url('/assets/images/BG-footer.png')`,
         backgroundSize: "cover",
       }}
     >
@@ -54,17 +53,17 @@ const FooterSection3 = () => {
       <div className="marginBody grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 w-full">
         <CardFooter
           title="Phone"
-          description="404-920-4946"
+          description="212-548-6541"
           icon={<MdPhoneEnabled />}
         />
         <CardFooter
           title="Address"
-          description="55 Water St, New York, NY 10038"
+          description="175 5th Ave, New York, NY 10010"
           icon={<IoLocationOutline />}
         />
         <CardFooter
           title="Email"
-          description="info@sidwellcapital.com"
+          description="info@sidwellcapitalgroup.com"
           icon={<RiMailOpenLine />}
         />
       </div>

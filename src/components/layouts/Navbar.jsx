@@ -43,10 +43,11 @@ const Navbar = ({ setShowSearchBox }) => {
       transition={{ duration: 0.3 }}
       className={`sticky top-0 left-0 w-full ${isVisible ? "shadow-lg" : ""} z-50`}
     >
-      <div
+      <div 
         className={`hidden lg:flex items-center justify-between gap-5 Navbar h-[145px] ${
-          location.pathname.includes("/syndication") ? "bg-[#CDA33B] text-light" : "bg-black text-lighttext"
+          location.pathname.includes("/syndication") ? "bg-[#CDA33B] text-light" : "text-lighttext"
         } marginNav text-sm`}
+        style={{backgroundColor: 'rgb(0 123 255)'}}
       >
         <div>
         <p style={{ fontSize: '24px', fontWeight: 'bold', color: 'White' }}>Sidwell Capital</p>
@@ -88,7 +89,7 @@ const Navbar = ({ setShowSearchBox }) => {
                     key={index}
                     className={`${
                       location?.pathname === nav?.route
-                        ? "text-primary"
+                        ? "text-primary2"
                         : location.pathname.includes("/syndication")
                         ? "text-light"
                         : "text-lighttext"

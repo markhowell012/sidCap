@@ -7,7 +7,7 @@ const AboutUs = () => {
 
   return (
     <div className="marginBody mx-auto p-[10px]">
-      <p className="text-center heading1-primary !text-light font-medium">
+      <p className="text-center heading1-primary font-medium">
         Hello there,
         <br /> We are
         <br /> <span className="text-primary">Sidwell Capital's</span>
@@ -336,7 +336,7 @@ const AboutUs = () => {
       <div className="flex flex-col sm:flex-row items-start gap-10 py-20">
         <div className="flex-1">
           <div className="flex flex-col justify-center items-center">
-            <h1 className="heading1-primary !text-light text-center sm:text-left">
+            <h1 className="heading1-primary text-center sm:text-left">
               What we could do
               <span className="text-primary"> together</span>
             </h1>

@@ -39,7 +39,7 @@ const MerchantAdvance = () => {
     <div className="mx-auto">
       <div className="marginBody mx-auto grid grid-cols-1 md:grid-cols-2 items-start py-8 md:py-16 gap-8">
         <div className="mt-10">
-          <h3 className="paragraph1 !text-light mb-2">MERCHANT CASH ADVANCE</h3>
+          <h3 className="paragraph1 mb-2">MERCHANT CASH ADVANCE</h3>
           <h2 className="heading2 mb-4">Grow Your Business Fast With a Merchant Cash Advance</h2>
           <p className="paragraph1">
             A quicker alternative to more traditional funding methods. Payments are a percentage of each sale so

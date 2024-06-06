@@ -195,7 +195,7 @@ code {
 
 .custom_checkbox:checked {
   color: white;
-  background: #ffc300;
+  background: #ffc300
 }
 
 .custom_checkbox:checked::before {

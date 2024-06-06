@@ -3,14 +3,15 @@ import Button from "../../components/macros/Button";
 import { FiArrowRight } from "react-icons/fi";
 import { useNavigate } from "react-router-dom";
 
+
 const HeroSection = () => {
   const navigate = useNavigate();
 
   return (
+    
     <div
       className="bg-background flex flex-col items-center justify-center gap-14 py-8 w-full text-secondary"
       style={{
-        backgroundImage: "url(/assets/images/bg-hero-section.png)",
         backgroundPosition: " center",
         backgroundRepeat: " no-repeat",
         backgroundSize: " cover",
@@ -42,6 +43,7 @@ const HeroSection = () => {
         </div>
       </div>
     </div>
+
   );
 };
 

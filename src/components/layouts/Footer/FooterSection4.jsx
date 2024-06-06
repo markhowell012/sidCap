@@ -64,12 +64,7 @@ const FooterSection4 = () => {
       </section>
       <section className="marginBody grid grid-cols-1 md:grid-cols-4 gap-12 1024:gap-32 font-medium w-full">
         <div className="flex flex-col gap-5">
-          <img
-            src="/assets/images/LOGOS/Logo-white.png"
-            alt="footer-logo"
-            className="w-[175px]"
-          />
-          <p>Business funding is what we do!</p>
+          <p>Supporting businesses financially is our expertise!</p>
           <img
             src="/assets/images/SSL.png"
             alt="footer-logo"

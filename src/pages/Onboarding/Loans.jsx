@@ -9,7 +9,7 @@ const OnboardingLoans = () => {
             <img src="/assets/images/businessloans.png" className="w-[130px]" alt="loans"/>
           </div>
           <div>
-            <h1 className="heading3">Business Loans </h1>
+            <h1 className="heading4">Business Loans </h1>
             <p className="paragraph1 mt-4">
               Get the money you need to keep the business running and growing.
             </p>
@@ -22,7 +22,7 @@ const OnboardingLoans = () => {
             <img src="/assets/images/personaloans.png" className="w-[130px]" alt="loans"/>
           </div>
           <div>
-            <h1 className="heading3">Personal Loans</h1>
+            <h1 className="heading4">Personal Loans</h1>
             <p className="paragraph1 mt-4">
               Get approved for a personal loan and take control of your
               finances.
@@ -36,7 +36,7 @@ const OnboardingLoans = () => {
             <img src="/assets/images/credits.png" className="w-[130px]" alt="credits"/>
           </div>
           <div>
-            <h1 className="heading3">Line of credit </h1>
+            <h1 className="heading4">Line of credit </h1>
             <p className="paragraph1 mt-4">
               Receive a revolving line of credit. Pay it off and use it again.
             </p>

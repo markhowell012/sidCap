@@ -48,7 +48,7 @@ const Affiliates = () => {
                 </div>
                 <div>
                   <h1 className="paragraph2">Call Us</h1>
-                  <p className="text-gray text-sm">404-920-4946</p>
+                  <p className="text-gray text-sm">212-548-6541</p>
                 </div>
               </div>
               <div className="flex items-center gap-8">
@@ -67,7 +67,7 @@ const Affiliates = () => {
                 <div>
                   <h1 className="paragraph2">Address</h1>
                   <p className="text-gray text-sm">
-                    55 Water St, New York, NY 10038
+                  175 5th Ave, New York, NY 10010
                   </p>
                 </div>
               </div>

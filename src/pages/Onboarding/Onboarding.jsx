@@ -24,7 +24,7 @@ const Onboarding = () => {
       <HeroSection />
       <div className="marginBody grid grid-cols-1 md:grid-cols-2 gap-12">
         <div className="mt-6">
-          <h2 className="heading1-primary !text-light !font-medium">
+          <h2 className="heading1-primary !font-medium">
             Sidwell Capital
           </h2>
           <h2 className="heading1-primary ">Short Term Business Loans</h2>

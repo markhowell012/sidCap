@@ -616,14 +616,14 @@ const TermLoan = () => {
               <div className="flex flex-row mb-4">
                 <BiChevronRight className="text-primary w-[20px] min-w-[20px] mt-1" />
                 <p className="paragraph1 ml-6">
-                  <span className="!text-light font-bold">Competitive Rates, Fast:</span> We secure high-quality loans
+                  <span className="font-bold">Competitive Rates, Fast:</span> We secure high-quality loans
                   at interest rates that are conducive to business growth—and we do it fast.
                 </p>
               </div>
               <div className="flex flex-row mb-4">
                 <BiChevronRight className="text-primary w-[20px] min-w-[20px] mt-1" />
                 <p className="paragraph1 ml-6">
-                  <span className="!text-light font-bold">A Partner Committed to Your Success:</span> It’s all about
+                  <span className=" font-bold">A Partner Committed to Your Success:</span> It’s all about
                   relationships at Sidwell Capital. We won’t push just any financing option on you, we work with you to find
                   the best solution for your business.
                 </p>
@@ -631,7 +631,7 @@ const TermLoan = () => {
               <div className="flex flex-row mb-4">
                 <BiChevronRight className="text-primary w-[20px] min-w-[20px] mt-1" />
                 <p className="paragraph1 ml-6">
-                  <span className="!text-light font-bold">Access to Sprawling Financial Connections:</span> Sidwell Capital is
+                  <span className=" font-bold">Access to Sprawling Financial Connections:</span> Sidwell Capital is
                   internationally connected with finance industry titans. Work with us and tap into an international
                   network of financial expertise.
                 </p>
@@ -639,7 +639,7 @@ const TermLoan = () => {
               <div className="flex flex-row mb-4">
                 <BiChevronRight className="text-primary w-[20px] min-w-[20px] mt-1" />
                 <p className="paragraph1 ml-6">
-                  <span className="!text-light font-bold">Security-First Practices and Strategies:</span> We employ
+                  <span className=" font-bold">Security-First Practices and Strategies:</span> We employ
                   cutting-edge cybersecurity practices that lock down our client’s data. Whether you’re working with us
                   for a long-term loan or line of credit, you can trust us to keep your information protected.
                 </p>
