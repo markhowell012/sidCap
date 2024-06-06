@@ -45,7 +45,7 @@ const EquipmentFinance = () => {
             equipment is by working with a business equipment financing company.
             <br />
             <br />
-            If you’re ready to start but still don’t know who to work with, turn to GFN capital! We use our sprawling
+            If you’re ready to start but still don’t know who to work with, turn to Sidwell capital! We use our sprawling
             network of vendors and relationship-driven approach to get your business the funding it needs when you need
             it.
           </p>
@@ -129,13 +129,13 @@ const EquipmentFinance = () => {
       <div className="marginBody mx-auto flex items-start gap-20 py-8 md:py-16 lg:py-24">
         <div className="flex flex-col sm:flex-row item-start gap-10">
           <h1 className="w-[100%] sm:w-[45%] heading2 font-medium leading-tight">
-            Increase Productivity With GFN Capital’s Business Equipment Financing
+            Increase Productivity With Sidwell Capital’s Business Equipment Financing
           </h1>
           <p className="w-[100%] sm:w-[65%] paragraph1">
             Has your business reached a point where you need additional equipment but lack the working capital to
             purchase it? Business equipment financing loans may be the ideal solution for you. Business equipment
             financing can keep your business functioning at its best, making expanding to meet increasing demand simple.
-            Best of all, when you get equipment financing from GFN Capital, you can count on:
+            Best of all, when you get equipment financing from Sidwell Capital, you can count on:
           </p>
         </div>
       </div>
@@ -190,7 +190,7 @@ const EquipmentFinance = () => {
             </div>
             <p className="paragraph2 my-8">
               Meet the requirements above? You only need to put together a few simple documents to get fast financing
-              from GFN Capital:
+              from Sidwell Capital:
             </p>
             <div className="flex items-center mb-4">
               <BiChevronRight className="text-primary" size={24} />
@@ -217,7 +217,7 @@ const EquipmentFinance = () => {
 
         <p className="max-w-[80%] md:max-w-[50%] mx-auto paragraph2 !text-white text-center mb-8">
           Whether you need substantial financial support for extensive construction equipment financing or are looking
-          for a little bit of help with light restaurant equipment financing, GFN capital is the one-stop shop for all
+          for a little bit of help with light restaurant equipment financing, Sidwell capital is the one-stop shop for all
           of your professional financing needs.
         </p>
 
@@ -273,9 +273,9 @@ const EquipmentFinance = () => {
             />
           </div>
           <div>
-            <h1 className="heading2 text-[36px] mb-10">Why Work With GFN Capital?</h1>
+            <h1 className="heading2 text-[36px] mb-10">Why Work With Sidwell Capital?</h1>
             <p className="paragraph1 ">
-              When you work with GFN Capital, you gain a financial partner committed to your organizational success.
+              When you work with Sidwell Capital, you gain a financial partner committed to your organizational success.
               We’ll structure the best loan for your needs at interest rates you can afford. We won’t just get you the
               equipment you need to grow your business, we’ll work with you to find a financing solution that fits your
               situation. We’ll never recommend a solution that isn’t in your best interest, so you can always be
@@ -283,7 +283,7 @@ const EquipmentFinance = () => {
               <br />
               <br />
               Between our commitment to your success, deep connections in the financial industry, and security-first
-              approach that incorporates cutting-edge security platforms, GFN Capital is the ultimate solution to your
+              approach that incorporates cutting-edge security platforms, Sidwell Capital is the ultimate solution to your
               business’s financial needs.
             </p>
           </div>
@@ -295,7 +295,7 @@ const EquipmentFinance = () => {
           <h3 className="heading2 font-medium text-black">See What Our Clients Have To Say</h3>
           <p className="paragraph2">
             You don’t have to take our word for it. With thousands of 5-Star TrustPilot reviews and hundreds of
-            testimonials, GFN Capital has a track record of excellent service. Check out some of our reviews below:
+            testimonials, Sidwell Capital has a track record of excellent service. Check out some of our reviews below:
           </p>
         </div>
         <div className="self-center w-[70%]">

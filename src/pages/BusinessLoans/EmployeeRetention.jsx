@@ -50,7 +50,7 @@ const EmployeeRetention = () => {
           <p className="paragraph1">
             ERC is a federal program that we help you file to secure refunds from your 2020 and 2021 payroll which
             includes money you paid as an employer in wages, salaries, taxes, pensions, healthcare taxes, tipped wages,
-            etc. GFN capital BBB A+ Rating
+            etc. Sidwell capital BBB A+ Rating
           </p>
 
           <div className="flex items-center gap-4 mt-10 flex-wrap">
@@ -164,7 +164,7 @@ const EmployeeRetention = () => {
             The Employee Retention Credit (ERC) Program is a program that allows businesses to secure payroll refunds
             from their 2020 and 2021 payrolls. The ERC could help employers recover money paid on wages, taxes,
             pensions, healthcare taxes, and more. Interested in the employee retention credit program but don’t know
-            where to start? GFN capital is here to help!
+            where to start? Sidwell capital is here to help!
           </p>
         </div>
         <LoanCard
@@ -295,10 +295,10 @@ const EmployeeRetention = () => {
       </div>
       <section className="pt-10 md:pt-20">
         <div className="marginBody mx-auto px-[20px] flex flex-col justify-center items-center gap-3 text-center">
-          <h3 className="heading2 leading-12 font-medium">Why GFN Capital?</h3>
+          <h3 className="heading2 leading-12 font-medium">Why Sidwell Capital?</h3>
 
           <p className="paragraph1">
-            Want to take advantage of the employee retention credit program but not sure if you should work with GFN
+            Want to take advantage of the employee retention credit program but not sure if you should work with Sidwell
             Capital? We could briefly break down the advantages you get when you work with us:
           </p>
         </div>
@@ -331,7 +331,7 @@ const EmployeeRetention = () => {
               <div className="flex items-center mb-4">
                 <BiChevronRight className="text-primary w-[20px] min-w-[20px]" />
                 <p className="paragraph1 ml-6">
-                  <span className="font-semibold !text-light">Sprawling Connections:</span> GFN capital is an
+                  <span className="font-semibold !text-light">Sprawling Connections:</span> Sidwell capital is an
                   internationally recognized organization with global connections. Work with us and tap into our network
                   of financial expertise.
                 </p>

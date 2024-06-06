@@ -9,10 +9,10 @@ const OnboardingSSl = () => {
             <p className="text-[10px] text-[#adabab] mb-2">
               By completing the form above, each of the above listed business
               and business owner/officer (individually and collectively, “you”)
-              authorize GFN Capital and each of its representatives, successors,
+              authorize Sidwell Capital and each of its representatives, successors,
               assigns and designees (“Recipients”) that may be involved with or
               acquire commercial loans having daily repayment features or
-              purchases of future receivables including GFN Capital Advance
+              purchases of future receivables including Sidwell Capital Advance
               transactions, including without limitation the application
               therefor (collectively, “Transactions”) to obtain consumer or
               personal, business and investigative reports and other information
@@ -22,12 +22,12 @@ const OnboardingSSl = () => {
               banks, creditors and other third parties.
             </p>
             <p className="text-[10px] text-[#adabab] mb-2">
-              You authorize GFN Capital to transmit this application form, along
+              You authorize Sidwell Capital to transmit this application form, along
               with any of the foregoing information obtained in connection with
               this application, to any or all of the Recipients for the
               foregoing purposes. You also consent to the release, by any
               creditor or financial institution, of any information relating to
-              any of you, to GFN Capital and to each of the Recipients, on its
+              any of you, to Sidwell Capital and to each of the Recipients, on its
               own behalf.”
             </p>
             <p className="text-[10px] text-[#adabab] mb-2">
@@ -57,7 +57,7 @@ const OnboardingSSl = () => {
       <div className="marginBody">
         <div>
           <p className="text-[10px] text-black">
-            Copyright © 2023 All Rights Reserved by GFN Capital •Terms of Use
+            Copyright © 2023 All Rights Reserved by Sidwell Capital •Terms of Use
             •Privacy Policy • Call: 404-920-4946 • 90 Broad St, New York, NY
             10004
           </p>

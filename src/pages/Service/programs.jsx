@@ -135,7 +135,7 @@ const Programs = () => {
             turn to a bank for help with funding, you will frequently be met
             with strict criteria and substantial interest rates. When your
             business needs help, the last thing you should have to do is jump
-            through hoops trying to meet their application requirements..GFN
+            through hoops trying to meet their application requirements..Sidwell
             Capital has recognized the difficulties some businesses face when
             trying to get help with business funding solutions. We are proud to
             offer programs to all companies in need without requiring a ton of
@@ -146,7 +146,7 @@ const Programs = () => {
             approved and then waiting for the funding to come in. Our MCAs are
             made available quickly, so your business operations can continue
             normally without missing a beat.Are you worried about a low credit
-            score? GFN Capital offers solutions to everyone, even those who do
+            score? Sidwell Capital offers solutions to everyone, even those who do
             not have the best credit status. To learn more about your options,
             contact us to speak with a funding specialist.
           </p>

@@ -12,7 +12,7 @@ const LayoutMain = () => {
 
   useEffect(() => {
     const pathnameWithoutLeadingSlash = location.pathname.replace(/^\/+/, "");
-    document.title = `GFN Capital ${pathnameWithoutLeadingSlash}`;
+    document.title = `Sidwell Capital ${pathnameWithoutLeadingSlash}`;
   }, [location]);
   const [showSearchBox, setShowSearchBox] = useState(false);
 

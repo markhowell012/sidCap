@@ -55,7 +55,7 @@ const CommercialLoan = () => {
         <div className="mt-10">
           <h2 className="heading2 mb-4">Get Commercial Real Estate Loans Today</h2>
           <p className="paragraph1">
-            Need help financing your commercial real estate investment? GFN capital can lend a hand. We have a
+            Need help financing your commercial real estate investment? Sidwell capital can lend a hand. We have a
             wealth of experience helping small businesses secure real estate the financing they need to flourish.
           </p>
 
@@ -476,7 +476,7 @@ const CommercialLoan = () => {
 
         <div className="py-10">
           <p className="paragraph1">
-            GFN capital can help you get access to real estate loans at competitive rates today. We’re eager to
+          Sidwell capital can help you get access to real estate loans at competitive rates today. We’re eager to
             connect you with our nationwide network of qualified vendors to get you commercial real estate loans you can
             afford. Get in touch today and take the first step toward getting the financing you need.
           </p>
@@ -591,7 +591,7 @@ const CommercialLoan = () => {
       <section className="marginBody mx-auto my-10 md:my-20 flex flex-col gap-10">
         <div className="flex flex-col justify-center items-start gap-3 text-left">
           <h3 className="heading3 !text-primary font-medium ">Secure High-Quality Commercial Real Estate Loans Fast</h3>
-          <p className="paragraph1">Let’s review why GFN capital is the right partner for you.</p>
+          <p className="paragraph1">Let’s review why Sidwell capital is the right partner for you.</p>
         </div>
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 md:gap-16">
           <div>
@@ -601,19 +601,19 @@ const CommercialLoan = () => {
               many businesses in the financial industry can’t keep up. Fortunately, we’ve prioritized security from day
               one and consistently train our employees on new security strategies and implement revolutionary
               cybersecurity software. Compromised financial data can have disastrous consequences for your business—work
-              with GFN Capital to avoid them.
+              with Sidwell Capital to avoid them.
             </p>
           </div>
           <div>
             <h3 className="heading3 ">Relationship-Driven Approach to Financing</h3>
             <p className="paragraph1">
               <span className="text-primary">
-                <Link to="/about-us">People are the point at GFN Capital.</Link>
+                <Link to="/about-us">People are the point at Sidwell Capital.</Link>
               </span>{" "}
               We use this perspective to inform everything we do, from our client interaction model to our relationships
               with the country’s best lenders. Too many businesses in the finance industry get caught up in numbers,
               bottom lines, and statistics and forget that it’s actually all about people. We always keep sight of that
-              at GFN Capital, which is why you can trust us to meet your needs.
+              at Sidwell Capital, which is why you can trust us to meet your needs.
             </p>
           </div>
         </div>

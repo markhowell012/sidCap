@@ -49,7 +49,7 @@ const Navbar = ({ setShowSearchBox }) => {
         } marginNav text-sm`}
       >
         <div>
-          <img src="/assets/images/LOGOS/GFN_LOGO.svg" alt="nav-logo" className="max-w-[125px]" />
+        <p style={{ fontSize: '24px', fontWeight: 'bold', color: 'White' }}>Sidwell Capital</p>
         </div>
         <div className="flex items-center gap-4 xl:gap-8">
           <div className="flex items-center justify-center gap-4 xl:gap-4 font-medium flex-wrap xl:flex-nowrap whitespace-nowrap">

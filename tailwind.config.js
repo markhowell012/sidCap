@@ -13,15 +13,15 @@ module.exports = {
         1720: "1720px",
       },
       colors: {
-        primary: "#ffc300",
-        background: "#000",
-        secondary: "#333",
-        light: "#fff",
-        gray: "#7B7B7B",
-        offWhite: "#F4FDF8",
-        red: "#FF0000",
-        textinput: "#01397AA1",
-        lighttext: "#bababa",
+        primary: "#007BFF",        // Blue (Primary)
+        background: "#FFFFFF",     // White (Background)
+        secondary: "#0056B3",      // Darker Blue (Secondary)
+        light: "#F8F9FA",          // Light Gray (Light)
+        gray: "#6C757D",           // Gray
+        offWhite: "#E9ECEF",       // Off White
+        red: "#FF0000",            // Red
+        textinput: "#01397A",      // Blue (Text Input)
+        lighttext: "#ADB5BD",      // Light Gray (Light Text)
       },
 
       boxShadow: {

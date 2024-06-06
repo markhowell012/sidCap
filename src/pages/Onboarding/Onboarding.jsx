@@ -13,7 +13,7 @@ const Onboarding = () => {
 
   useEffect(() => {
     const pathnameWithoutLeadingSlash = location.pathname.replace(/^\/+/, "");
-    document.title = `GFN Capital ${pathnameWithoutLeadingSlash}`;
+    document.title = `Sidwell Capital ${pathnameWithoutLeadingSlash}`;
     
     // Scrolling to Top
     window.scrollTo(0, 0);
@@ -25,13 +25,13 @@ const Onboarding = () => {
       <div className="marginBody grid grid-cols-1 md:grid-cols-2 gap-12">
         <div className="mt-6">
           <h2 className="heading1-primary !text-light !font-medium">
-            GFN Capital
+            Sidwell Capital
           </h2>
           <h2 className="heading1-primary ">Short Term Business Loans</h2>
           <p className="paragraph2 mb-8 mt-4">Powerful Partnerships.</p>
           <p className="paragraph1">
-            If GFN Capital's direct programs aren’t the best fit for you, our
-            Marketplace gotcha covered! GFN Capital has created its own unique
+            If Sidwell Capital's direct programs aren’t the best fit for you, our
+            Marketplace gotcha covered! Sidwell Capital has created its own unique
             Marketplace, with over a decade of vetted partnerships.
           </p>
           <div className="mt-6">
@@ -45,7 +45,6 @@ const Onboarding = () => {
           </div>
         </div>
         <div className="hidden md:block lg:block xl:block">
-          <img src="/assets/images/Financials.png" alt="finance"/>
         </div>
       </div>
       {/* cards section.............. */}
@@ -64,7 +63,6 @@ const Onboarding = () => {
           </p>
         </div>
         <div>
-          <img src="/assets/images/funding.png" alt="funding"/>
         </div>
       </div>
       {/* loans............... */}

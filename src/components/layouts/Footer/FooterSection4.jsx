@@ -126,7 +126,7 @@ const FooterSection4 = () => {
         </div>
       </section>
       <section className="marginBody w-full border-t border-[white]/[0.1] h-[72px] font-semibold flex items-center">
-        <p>© 2023 GFN Capital. All Rights Reserved.</p>
+        <p>© 2023 Sidwell Capital. All Rights Reserved.</p>
       </section>
 
       {showSuccessModal && (

@@ -15,7 +15,7 @@ const Login = () => {
 
   useEffect(() => {
     const pathnameWithoutLeadingSlash = location.pathname.replace(/^\/+/, "");
-    document.title = `GFN Capital ${pathnameWithoutLeadingSlash}`;
+    document.title = `Sidwell Capital ${pathnameWithoutLeadingSlash}`;
   }, [location]); 
 
   const forgotPassHandler = () => {
@@ -84,7 +84,7 @@ const Login = () => {
           <p className="font-bold text-light">REGISTER PORTAL ACCOUNT</p>
 
           <p className="paragraph1">
-            If it is your first time here and you do not have an GFN Capital's
+            If it is your first time here and you do not have an Sidwell Capital's
             portal account please click below to register your account.
           </p>
           <div>
@@ -96,7 +96,7 @@ const Login = () => {
       <div className="hidden bg-[#927DFF] h-full w-[35%] p-10 lg:flex flex-col gap-10">
         <img src="/assets/images/Login-Media.gif" alt="loginmediagif" />
         <p className="paragraph1 text-center text-white">
-          Please contact GFN Capital at info@gfncapital.com
+          Please contact Sidwell Capital at info@sidwellcapital.com
         </p>
         <div className="self-center">
           <Button

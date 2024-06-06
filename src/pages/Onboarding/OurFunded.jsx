@@ -7,7 +7,6 @@ const OnboardingFunded = () => {
     <div className="marginBody grid grid-cols-1 md:grid-cols-2 gap-8">
       <div className="">
         <div>
-          <img className="w-full md:p-20" src="/assets/images/funded.png" alt="funded"/>
         </div>
         <div className="mt-6 flex justify-center">
           <Button

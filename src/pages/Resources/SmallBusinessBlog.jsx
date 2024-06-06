@@ -9,7 +9,7 @@ const SmallBusinessBlog = () => {
         <div className="flex flex-col gap-2 md:gap-5 p-4 md:p-8 border-l-4 border-secondary">
           <p className="heading3">Helping businesses reach their goal</p>
           <p className="paragraph1">
-            GFN Capital's blog serves as a business finance knowledge base,
+          Sidwell Capital's blog serves as a business finance knowledge base,
             providing professional tips and advice on all aspects of business
             funding.
           </p>

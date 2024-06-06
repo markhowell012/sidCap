@@ -19,11 +19,6 @@ const MobileNav = () => {
   return (
     <div className="relative marginNav lg:hidden w-full h-[66px] md:h-[125px] flex justify-between items-center">
       <div className="flex items-center justify-between w-full">
-        <img
-          src="/assets/images/LOGOS/GFN_LOGO.svg"
-          alt="nav-logo"
-          className="w-[55px] md:max-w-[180px]"
-        />
         <HiOutlineMenuAlt1
           className="text-2xl cursor-pointer"
           onClick={() => setOpen(true)}
@@ -32,11 +27,6 @@ const MobileNav = () => {
       {open && (
         <div className="z-[1000] fixed marginNav py-8 top-0 left-0 bg-secondary h-screen w-screen flex flex-col gap-10">
           <div className="flex items-center justify-between w-full">
-            <img
-              src="/assets/images/LOGOS/GFN_LOGO.svg"
-              alt="nav-logo"
-              className="w-[55px] md:max-w-[180px]"
-            />
             <AiOutlineClose
               className="text-2xl cursor-pointer"
               onClick={() => {

@@ -36,7 +36,7 @@ const SBALoan = () => {
     <div className="mx-auto">
       <div className="marginBody mx-auto grid grid-cols-1 md:grid-cols-2 items-start py-16 gap-8">
         <div className="mt-10">
-          <h2 className="heading2 mb-3">Secure Any Type Of SBA Loan With GFN Capital</h2>
+          <h2 className="heading2 mb-3">Secure Any Type Of SBA Loan With Sidwell Capital</h2>
           <p className="paragraph1">
             With low interest rates, long repayment periods, and favorable terms, there’s no shortage of reasons why a
             business owner would be interested in an SBA loan. Unfortunately, the process of securing any type of SBA
@@ -44,7 +44,7 @@ const SBALoan = () => {
             one and take advantage of its benefits.
             <br />
             <br />
-            Luckily, GFN Capital is here to help. Whether you need an SBA real estate loan or are interested in an SBA
+            Luckily, Sidwell Capital is here to help. Whether you need an SBA real estate loan or are interested in an SBA
             CAPline, we make the process easier than ever by providing professional assistance. From SBA loan
             calculation to loan term and payment breakdown, we’ll guide you through the entire process.
           </p>
@@ -376,7 +376,7 @@ const SBALoan = () => {
 
       <section className="marginBody mx-auto my-10 flex flex-col gap-10">
         <div className="flex flex-col justify-center items-center gap-3 text-center">
-          <h3 className="heading2 font-medium text-black">GFN Capital: Proven Excellence</h3>
+          <h3 className="heading2 font-medium text-black">Sidwell Capital: Proven Excellence</h3>
           <p className="paragraph2">Don’t just take our word for it—check out what our clients have to say:</p>
         </div>
         <div className="self-center w-[70%]">

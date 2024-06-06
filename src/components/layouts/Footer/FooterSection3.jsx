@@ -64,7 +64,7 @@ const FooterSection3 = () => {
         />
         <CardFooter
           title="Email"
-          description="info@gfncapital.com"
+          description="info@sidwellcapital.com"
           icon={<RiMailOpenLine />}
         />
       </div>

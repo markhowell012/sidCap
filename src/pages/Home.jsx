@@ -34,7 +34,6 @@ const Home = () => {
   }, []);
 
   const translateY = scrollY * 0.2;
-  const translateY_hero_mobile = scrollY * 0.1;
   const translateY_hero_dots = scrollY * 0.1;
 
   const navigate = useNavigate();
@@ -72,17 +71,6 @@ const Home = () => {
                       fill="transparent"
                       xmlns="http://www.w3.org/2000/svg"
                     >
-                      <motion.path
-                        initial={{ pathLength: 0 }}
-                        animate={{ pathLength: 1, stroke: "#ffc300" }}
-                        transition={{
-                          delay: 2,
-                          duration: 1,
-                          ease: "easeInOut",
-                        }}
-                        strokeWidth={4}
-                        d={"M15.2,133.3L15.2,133.3c121.9-7.6,244-9.9,366.1-6.8c34.6,0.9,69.1,2.3,103.7,4"}
-                      />
                     </svg>
                   </span>
                 </h2>
@@ -165,7 +153,7 @@ const Home = () => {
                   viewport={{ once: true, amount: 0.25 }}
                 >
                   <p className="paragraph1 ">
-                    Join other enterpreneurs who used GFN Capital funding for their business!
+                    Join other enterpreneurs who used Sidwell Capital funding for their business!
                   </p>
                 </motion.p>
               </div>
@@ -187,12 +175,6 @@ const Home = () => {
                   className={`absolute -bottom-8 lg:-bottom-12 xl:-bottom-24 right-0 w-[500px]`}
                 />
                 <motion.img
-                  style={{ y: translateY_hero_mobile }}
-                  src="/assets/images/top-image-02.png"
-                  alt="top-image-02"
-                  className={`absolute -top-6 left-0 w-[400px]`}
-                />
-                <motion.img
                   style={{ y: -translateY_hero_dots }}
                   src="/assets/images/top-image-01.png"
                   alt="top-image-01"
@@ -209,7 +191,7 @@ const Home = () => {
       <div className="marginBody grid grid-cols-1 md:grid-cols-2 gap-12 lg:mt-10">
         <motion.div style={{ y: translateY }}>
           <div className="flex flex-col gap-6">
-            <h2 className="heading2">Hi, We're GFN Capital</h2>
+            <h2 className="heading2">Hi, We're Sidwell Capital</h2>
 
             <p className="paragraph1">
               We do business finance differently. With more options tailored for you, less hassle and the right guidance
@@ -250,7 +232,7 @@ const Home = () => {
               whileInView="show"
               viewport={{ once: true, amount: 0.25 }}
             >
-              <p className="heading3">GFN Capital believes in ALL small businesses.</p>
+              <p className="heading3">Sidwell Capital believes in ALL small businesses.</p>
             </motion.p>
             <motion.p
               variants={textVariant(0.3)}
@@ -309,7 +291,7 @@ const Home = () => {
                 <br />
                 <br />
                 It has never been easier to get funded for your small business, and you won't ever need to look anywhere
-                else again. Right here at GFN Capital, we have you and your business needs in mind and will do whatever
+                else again. Right here at Sidwell Capital, we have you and your business needs in mind and will do whatever
                 it takes to help you elevate your business to the next level. Small business loans have never been so
                 easy.
               </p>

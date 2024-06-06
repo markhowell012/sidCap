@@ -469,7 +469,7 @@ const TermLoan = () => {
           </h1>
           <p className="w-full sm:w-[60%] paragraph1 text-center text-justify">
             Has your business struggled to maintain a healthy supply of working capital? If so, consider pursuing a
-            business term loan from GFN capital. We secure flexible loans at competitive rates fast. Once you
+            business term loan from Sidwell capital. We secure flexible loans at competitive rates fast. Once you
             reach out, we’ll work to get your business funded within 48 hours. We don’t take the first low-quality loan
             we find either—we secure stable loans oriented around growth.
             <br />
@@ -595,11 +595,11 @@ const TermLoan = () => {
       </div>
       <section className="marginBody mx-auto py-20">
         <div className="px-[20px] flex flex-col justify-center items-center gap-3 text-center">
-          <h3 className="heading2 leading-12 font-medium">Why GFN Capital?</h3>
+          <h3 className="heading2 leading-12 font-medium">Why Sidwell Capital?</h3>
 
           <p className="paragraph1">
-            A lot of organizations can help you track down term loans—so why should you work with GFN capital? We
-            offer a unique blend of strengths when compared to other organizations. When you work with GFN Capital, you
+            A lot of organizations can help you track down term loans—so why should you work with Sidwell capital? We
+            offer a unique blend of strengths when compared to other organizations. When you work with Sidwell Capital, you
             get:
           </p>
         </div>
@@ -624,14 +624,14 @@ const TermLoan = () => {
                 <BiChevronRight className="text-primary w-[20px] min-w-[20px] mt-1" />
                 <p className="paragraph1 ml-6">
                   <span className="!text-light font-bold">A Partner Committed to Your Success:</span> It’s all about
-                  relationships at GFN Capital. We won’t push just any financing option on you, we work with you to find
+                  relationships at Sidwell Capital. We won’t push just any financing option on you, we work with you to find
                   the best solution for your business.
                 </p>
               </div>
               <div className="flex flex-row mb-4">
                 <BiChevronRight className="text-primary w-[20px] min-w-[20px] mt-1" />
                 <p className="paragraph1 ml-6">
-                  <span className="!text-light font-bold">Access to Sprawling Financial Connections:</span> GFN Capital is
+                  <span className="!text-light font-bold">Access to Sprawling Financial Connections:</span> Sidwell Capital is
                   internationally connected with finance industry titans. Work with us and tap into an international
                   network of financial expertise.
                 </p>

@@ -37,13 +37,13 @@ const BusinessLineCredits = () => {
           <h2 className="heading2 mb-4">Get Access To A Business Line Of Credit Today</h2>
           <p className="paragraph1">
             Business lines of credit are one of the best financing options for businesses that need financing but don’t
-            want to take out a traditional loan. If you’re interested but don’t know where to turn, work with GFN
+            want to take out a traditional loan. If you’re interested but don’t know where to turn, work with Sidwell
             Capital!
             <br />
             <br />
             We’ll combine our financial expertise with our deep connections to secure you financing options that other
             companies can’t. Keep reading to learn more about business lines of credit and the advantages of partnering
-            with GFN Capital.
+            with Sidwell Capital.
           </p>
 
           <div className="flex items-center gap-4 mt-10 flex-wrap">
@@ -157,7 +157,7 @@ const BusinessLineCredits = () => {
           <h1 className="heading3 !text-primary">Our Credit Line Qualifications</h1>
           <p className="paragraph1 mt-2">
             Have you tried tracking down a business line of credit but find yourself being continually rejected by
-            lenders? Work with the experts at GFN capital! Our team can collaborate with you to get the financing
+            lenders? Work with the experts at Sidwell capital! Our team can collaborate with you to get the financing
             you need. Best of all, the requirements to start working with us are minimal:
           </p>
 
@@ -176,8 +176,8 @@ const BusinessLineCredits = () => {
         </div>
 
         <div className="pt-10 md:pt-20">
-          <h1 className="text-center heading2 mb-4">Why GFN Capital?</h1>
-          <p className="text-center paragraph2">GFN Capital already has a variety of advantages over its competitors:</p>
+          <h1 className="text-center heading2 mb-4">Why Sidwell Capital?</h1>
+          <p className="text-center paragraph2">Sidwell Capital already has a variety of advantages over its competitors:</p>
         </div>
         <LoanCard
           data={[
@@ -220,7 +220,7 @@ const BusinessLineCredits = () => {
             <h1 className="heading2 text-[36px] mb-6">Sprawling Financial Industry Connections</h1>
             <p className="paragraph1 ">
               Business success is predicated upon cultivating the right relationships—especially in the financial
-              industry. We recognize the importance of connections at GFN Capital, which is why we’ve developed deep bonds
+              industry. We recognize the importance of connections at Sidwell Capital, which is why we’ve developed deep bonds
               with the country’s leading lenders and financial institutions. Not only do these connections keep us on
               top of the latest trends in the industry, but they facilitate better transactions. We leverage these
               connections on a daily basis to secure financing that other companies can’t.

@@ -56,7 +56,7 @@ const BusinessLoans = () => {
             Find The Right Loan To Grow Your Small Business
           </h3>
 
-          <p className="paragraph2">At GFN Capital</p>
+          <p className="paragraph2">At Sidwell Capital</p>
         </div>
         <Card1 data={BUSINESS_LOANS_TYPES} />
         <div className="mx-auto">

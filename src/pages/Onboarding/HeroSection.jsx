@@ -43,7 +43,7 @@ const HeroSection = () => {
       {/* Header */}
       <div className="marginBody flex justify-between items-center w-full">
         <div className="cursor-pointer" onClick={() => navigate("/")}>
-          <img src="/assets/images/LOGOS/Logo-white.png" alt="nav-logo" className="max-w-[70px] md:max-w-[125px]" />
+
         </div>
         <div className="flex items-center gap-3">
           <p className="paragraph2 ">404-920-4946</p>

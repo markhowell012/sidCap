@@ -9,15 +9,15 @@ const Marketplace = () => {
     <div className="marginBody mx-auto p-[10px]">
       <div className="flex flex-col md:flex-row items-center gap-6">
         <div className="flex-1">
-          <h2 className="!text-light !font-medium heading1">GFN Capital</h2>
+          <h2 className="!text-light !font-medium heading1">Sidwell Capital</h2>
           <h2 className="!font-medium heading1-primary">
             Short Term Business Loans
           </h2>
 
           <p className="paragraph2 py-5 mb-3">Powerful Partnerships</p>
           <p className="paragraph1">
-            If GFN Capital's direct programs aren’t the best fit for you, our
-            Marketplace gotcha covered! GFN Capital has created its own unique
+            If Sidwell Capital's direct programs aren’t the best fit for you, our
+            Marketplace gotcha covered! Sidwell Capital has created its own unique
             Marketplace, with over a decade of vetted partnerships.
           </p>
           <Button
