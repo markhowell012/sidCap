@@ -5,7 +5,7 @@ import { BsFillCreditCard2FrontFill } from "react-icons/bs";
 import { TRUSTEDBY } from "../../src/utils/mock";
 import { useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
-import { textVariant, textVariantX } from "../utils/motions";
+import { textVariant } from "../utils/motions";
 
 const Home = () => {
   const spanRef = useRef();
