@@ -13,7 +13,7 @@ const FooterSection2 = () => {
         <CardFooter
           learnMore={true}
           onLearnMorePress={() => navigate('/about-us')}
-          title="More about Sidwell Capital"
+          title="More about Cidwell Capital"
           description="You should know everything about the company you work with and trust
           to give your capital."
           icon={<FaPlusCircle />}
@@ -21,7 +21,7 @@ const FooterSection2 = () => {
         <CardFooter
           learnMore={true}
           onLearnMorePress={() => navigate('/programs')}
-          title="Explore Sidwell Capital Program"
+          title="Explore Cidwell Capital Program"
           description="We offer you a suit of options along with our marketplace to help you get the best option for your business."
           icon={<FaPlusCircle />}
         />

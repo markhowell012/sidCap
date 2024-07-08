@@ -50,7 +50,7 @@ const Navbar = ({ setShowSearchBox }) => {
         style={{backgroundColor: 'rgb(0 123 255)'}}
       >
         <div>
-        <p style={{ fontSize: '24px', fontWeight: 'bold', color: 'White' }}>Sidwell Capital</p>
+        <p style={{ fontSize: '24px', fontWeight: 'bold', color: 'White' }}>Cidwell Capital</p>
         </div>
         <div className="flex items-center gap-4 xl:gap-8">
           <div className="flex items-center justify-center gap-4 xl:gap-4 font-medium flex-wrap xl:flex-nowrap whitespace-nowrap">

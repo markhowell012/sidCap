@@ -12,7 +12,7 @@ const LayoutMain = () => {
 
   useEffect(() => {
     const pathnameWithoutLeadingSlash = location.pathname.replace(/^\/+/, "");
-    document.title = `Sidwell Capital ${pathnameWithoutLeadingSlash}`;
+    document.title = `Cidwell Capital ${pathnameWithoutLeadingSlash}`;
   }, [location]);
   const [showSearchBox, setShowSearchBox] = useState(false);
 
@@ -22,7 +22,7 @@ const LayoutMain = () => {
 
   return (
     <div className="bg-background text-white" ref={ref}>
-      {showSearchBox ? (
+      {showSearchBox ? ( 
         <SearchCard
           handleClose={() => {
             setShowSearchBox(false);
