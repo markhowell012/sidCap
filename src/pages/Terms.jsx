@@ -137,7 +137,7 @@ const TermsAndConditions = () => {
         system. If you have already received funding, all previously agreed to
         terms and conditions will remain in effect, and we will send disclosures
         to your verified business address provided during registration. You can
-        contact us via email at info@Cidwellcapitalgroup.com or by calling our Customer
+        contact us via email at info@Cidwellcapital.com or by calling our Customer
         Success Team at 212-548-6541. You may also reach us in writing to us at
         the following address: Cidwell Capital, 20200 W Dixie HWY Miami, FL 33180,
         Attention: Customer Service. Disclaimer THE SITE, THE SITE CONTENT, AND
@@ -199,7 +199,7 @@ const TermsAndConditions = () => {
         remove and discontinue providing the service to repeat offenders. If you
         believe that any content on this website violates or infringes upon your
         intellectual property rights pursuant to Title 17, United States Code,
-        Section 512(c)(2), please notify us immediately at info@Cidwellcapitalgroup.com
+        Section 512(c)(2), please notify us immediately at info@Cidwellcapital.com
         or 212-548-6541. (“Designated Agent”) with the following information:
         Identification of the copyrighted work claimed to have been infringed,
         or—if multiple copyrighted works at a single online site are covered by
@@ -249,7 +249,7 @@ const TermsAndConditions = () => {
         failures, power failure, strikes or other labor disturbances, acts of
         God, acts of war or terror, floods, sabotage, fire, natural or other
         disasters. Contact Us If you have any questions or concerns about these
-        Terms of Use, please contact us at info@Cidwellcapitalgroup.com or 212-548-6541.
+        Terms of Use, please contact us at info@.com or 212-548-6541.
       </p>
     </div>
   );

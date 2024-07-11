@@ -12,7 +12,7 @@ const Policy = () => {
       <div className="flex flex-col gap-6">
         <p className="paragraph1">
           This Privacy Policy discloses the privacy practices for
-          www.cidwellcapitalgroup.com and applies solely to information collected
+          www.cidwellcapital.com and applies solely to information collected
           through this website (Site).
         </p>
         <p className="paragraph1">
@@ -188,7 +188,7 @@ const Policy = () => {
           If your personal information changes, or if you no longer want updates
           or to be contacted for new products, you may correct, update, amend,
           delete/remove or deactivate your contact information by emailing our
-          Customer Support at info@cidwellcapitalgroup.com or by contacting us by
+          Customer Support at info@cidwellcapital.com or by contacting us by
           telephone or postal mail at the contact information listed below. We
           will update your file within 30 calendar days.
         </p>
@@ -278,8 +278,8 @@ const Policy = () => {
           information in the context of any email. In general, you can protect
           yourself against phishing by never providing login or Personal
           Information via an email. You should always ensure the Cidwell Capital URL
-          that you are provided begins with: https://www.Cidwellcapitalgroup.com
-          or https://www.Cidwellcapitalgroup.com.
+          that you are provided begins with: https://www.Cidwellcapital.com
+          or https://www.cidwellcapital.com.
         </p>
         <p className="paragraph1">
           CHANGES TO THIS POLICY
@@ -296,7 +296,7 @@ const Policy = () => {
           You may use the following information to contact us with any questions
           or concerns about this Privacy Policy: <br />
           212-548-6541- <br />
-          info@Cidwellcapitalgroup.com
+          info@Cidwellcapital.com
         </p>
       </div>
     </div>

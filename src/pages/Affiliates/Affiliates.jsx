@@ -57,7 +57,7 @@ const Affiliates = () => {
                 </div>
                 <div>
                   <h1 className="paragraph2">Email Us</h1>
-                  <p className="text-gray text-sm">info@Cidwellcapitalgroup.com</p>
+                  <p className="text-gray text-sm">info@Cidwellcapital.com</p>
                 </div>
               </div>
               <div className="flex items-center gap-8">

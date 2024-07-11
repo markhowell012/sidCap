@@ -96,7 +96,7 @@ const Login = () => {
       <div className="hidden bg-[#927DFF] h-full w-[35%] p-10 lg:flex flex-col gap-10">
         <img src="/assets/images/Login-Media.gif" alt="loginmediagif" />
         <p className="paragraph1 text-center text-white">
-          Please contact Cidwell Capital at info@Cidwellcapitalgroup.com
+          Please contact Cidwell Capital at info@Cidwellcapital.com
         </p>
         <div className="self-center">
           <Button
