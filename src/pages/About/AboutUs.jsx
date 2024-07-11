@@ -10,7 +10,7 @@ const AboutUs = () => {
       <p className="text-center heading1-primary font-medium">
         Hello there,
         <br /> We are
-        <br /> <span className="text-primary">Sidwell Capital's</span>
+        <br /> <span className="text-primary">Cidwell Capital's</span>
       </p>
       <p className="p-5 paragraph2 text-center">
         Let’s get to know each other better
@@ -71,13 +71,13 @@ const AboutUs = () => {
 
       <div className="flex justify-center mt-5">
         <p className="paragraph1 text-center max-w-xl">
-          Sidwell Capital was launched in 2012 with a mission to make receiving
+          Cidwell Capital was launched in 2012 with a mission to make receiving
           capital for small businesses possible. We had one strategy in mind –
           to make receiving working capital simple, intuitive and human. The
           challenge of meeting the daily demands of your business and making
           your business stand out in a competitive marketplace requires money.
           Getting approved for a loan through a bank or other types of payday
-          companies can be a daunting task. Sidwell Capital has found a way to work
+          companies can be a daunting task. Cidwell Capital has found a way to work
           around these challenges. Our funding approval process is centered
           around our customers, using the power of technology. Over 90% of our
           customers are approved for funding, using our simple, user-friendly
@@ -138,7 +138,7 @@ const AboutUs = () => {
                 important.” Perfecting the little things will create something
                 that is perfectly whole.Relentless focus on success – Entirely
                 focused on creating a successful future, by being completely
-                committed to the present.A sense of purpose – Sidwell Capital was
+                committed to the present.A sense of purpose – Cidwell Capital was
                 born from our founder’s dedication to make a difference in the
                 lives of small business owners. That same purpose drives us
                 every day.Human – We remain personable because we put ourselves
@@ -208,7 +208,7 @@ const AboutUs = () => {
                 your business running properly. No matter the reason, you need
                 help from someone you can trust, someone who can deliver.When
                 choosing a Merchant Cash Advance company, you need to select a
-                trusted and respected company across the board. Sidwell Capital is a
+                trusted and respected company across the board. Cidwell Capital is a
                 company committed to strong communications and cultivating a
                 trustworthy environment. We want our customers to feel right at
                 home the moment they walk through the door. If someone is
@@ -218,12 +218,12 @@ const AboutUs = () => {
                 best services to everyone we come in contact with to ensure we
                 can make their day a little bit brighter. You need a merchant
                 cash advance company that is willing to go the extra mile to
-                ensure you get the funding you deserve, Sidwell Capital is that
+                ensure you get the funding you deserve, Cidwell Capital is that
                 company. We are proud to work hard to see our customers get the
                 fast approval for business funding so they can continue doing
-                what they love. Sidwell Capital provides US business funding
+                what they love. Cidwell Capital provides US business funding
                 solutions to those in need. We are there to help when others
-                turn their back to you. At Sidwell Capital's, we only want the best
+                turn their back to you. At Cidwell Capital's, we only want the best
                 for our customers. That is why we work hard to provide
                 exceptional business funding solutions—the last thing we want to
                 see if you and your business suffer. Our solutions are ideally
@@ -368,14 +368,14 @@ const AboutUs = () => {
             MCA.
           </p>
           <p className="text-lighttext font-bold mb-4">
-            Sidwell Capital's offers exceptional customer satisfaction.
+            Cidwell Capital's offers exceptional customer satisfaction.
           </p>
           <p className="text-lighttext text-base leading-7 mb-4">
-            Sidwell Capital's boasts excellent customer satisfaction. Our customers
+            Cidwell Capital's boasts excellent customer satisfaction. Our customers
             leave high reviews thanks to our accommodating merchant cash advance
             programs. We are proud to offer a reliable business funding solution
             to every business, no matter the industry or type. To learn why our
-            customers rave about Sidwell Capital, contact our funding specialists
+            customers rave about Cidwell Capital, contact our funding specialists
             today to start your journey towards getting the perfect MCA.
           </p>
         </div>

@@ -54,7 +54,7 @@ const ShortTermLoan = () => {
           <h2 className="heading2 mb-4">Get Competitive Short Term Loans Fast</h2>
           <p className="paragraph1">
             Does your business need extra cash fast? Whether you’ve come into trouble because of lagging invoices,
-            strained working capital, or are looking to buy more inventory to grow, short term business loans from Sidwell Capital may be the right choice for you. With our relationship-driven approach, sprawling financial
+            strained working capital, or are looking to buy more inventory to grow, short term business loans from Cidwell Capital may be the right choice for you. With our relationship-driven approach, sprawling financial
             industry connections, and security-first attitude to your sensitive information, we’re the nation’s ultimate
             short term loan company.
           </p>

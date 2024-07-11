@@ -15,12 +15,12 @@ const Career = () => {
             Helping businesses reach their goal.
           </h2>
           <p className="text-base paragraph1 leading-7">
-            At Sidwell Capital our goal is to help small businesses thrive. By
+            At Cidwell Capital our goal is to help small businesses thrive. By
             allowing businesses to access capital that they may not have been
             able to use otherwise, we help entrepreneurs achieve their goals. We
             do this by building trust with our clients through transparency,
             empathy, and understanding. If you’re interested in being an active
-            listener that helps businesses both survive and thrive, then Sidwell
+            listener that helps businesses both survive and thrive, then Cidwell
             Capital is the place for you!
           </p>
         </div>

@@ -130,7 +130,7 @@ const Home = () => {
       <div className="marginBody grid grid-cols-1 md:grid-cols-2 gap-12 lg:mt-10">
         <motion.div style={{ y: translateY }}>
           <div className="flex flex-col gap-6">
-            <h2 className="heading2">Hi, We're Sidwell Capital</h2>
+            <h2 className="heading2">Hi, We're Cidwell Capital</h2>
 
             <p className="paragraph1">
               We do business finance differently. With more options tailored for you, less hassle and the right guidance
@@ -171,7 +171,7 @@ const Home = () => {
               whileInView="show"
               viewport={{ once: true, amount: 0.25 }}
             >
-              <p className="heading3">Sidwell Capital believes in ALL small businesses.</p>
+              <p className="heading3">Cidwell Capital believes in ALL small businesses.</p>
             </motion.p>
             <motion.p
               variants={textVariant(0.3)}
@@ -230,7 +230,7 @@ const Home = () => {
                 <br />
                 <br />
                 It has never been easier to get funded for your small business, and you won't ever need to look anywhere
-                else again. Right here at Sidwell Capital, we have you and your business needs in mind and will do whatever
+                else again. Right here at Cidwell Capital, we have you and your business needs in mind and will do whatever
                 it takes to help you elevate your business to the next level. Small business loans have never been so
                 easy.
               </p>

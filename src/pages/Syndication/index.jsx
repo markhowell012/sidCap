@@ -15,7 +15,7 @@ const Syndication = () => {
           <h2 className="heading1-primary">What we could do together</h2>
           <p className="paragraph2 mb-8 mt-4">We’ve got your back!</p>
           <p className="paragraph1">
-          Sidwell Capital proprietary syndication platform is now available to
+          Cidwell Capital proprietary syndication platform is now available to
             anyone who needs to fund deals. Either participate on files
             generated and funded by us or fund deals 100% yourself.
           </p>

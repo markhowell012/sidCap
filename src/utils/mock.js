@@ -341,19 +341,19 @@ export const SMALL_BLOGS = [
   {
     id: 1,
     title: "Unlocking Your Business Potential: A Comprehensive Guide to Securing Capital Funding",
-    description: "Sidwell CAPITAL - BLOG TEAM October 10, 2023",
+    description: "Cidwell CAPITAL - BLOG TEAM October 10, 2023",
     imageSrc: "/assets/images/Blog-Image1.webp",
   },
   {
     id: 2,
     title: "Fueling Your Mobile App Success: A Comprehensive Guide to Securing Capital Funding for App Entrepreneurs",
-    description: "Sidwell CAPITAL - BLOG TEAM October 21, 2023",
+    description: "Cidwell CAPITAL - BLOG TEAM October 21, 2023",
     imageSrc: "/assets/images/Blog-Image2.webp",
   },
   {
     id: 3,
     title: "Elevating Your Website Venture: A Comprehensive Guide to Securing Capital Funding for Digital Success",
-    description: "Sidwell CAPITAL - BLOG TEAM October 27, 2023",
+    description: "Cidwell CAPITAL - BLOG TEAM October 27, 2023",
     imageSrc: "/assets/images/Blog-Image3.webp",
   },
 ];
@@ -435,9 +435,9 @@ export const INDUSTRIES = [
 
 export const FAQS = [
   {
-    title: "Who is Sidwell Capital?",
+    title: "Who is Cidwell Capital?",
     content:
-      "Sidwell Capital is a respectable Cash Advance Company. We were founded in 2012 and have since spent years dedicated to helping countless customers achieve something better than short term business loans, which is an interest-free business cash advance. We continue to work hard, providing working capital to all types of industries and businesses nationwide.",
+      "Cidwell Capital is a respectable Cash Advance Company. We were founded in 2012 and have since spent years dedicated to helping countless customers achieve something better than short term business loans, which is an interest-free business cash advance. We continue to work hard, providing working capital to all types of industries and businesses nationwide.",
   },
   {
     title: "What is a merchant cash advance?",
@@ -452,7 +452,7 @@ export const FAQS = [
   {
     title: "What type of programs do you offer? ",
     content:
-      "Sidwell Capital is proud to offer our customers a wide variety of cash advance programs. We know how important it is to get the money you need for your business fast. That’s why we work hard to provide programs that are well suited for almost any business owner. Here is a quick overview of our programs:Premier Plus Program with a term of 2-12 months.Premier Program with a term of 3-8 months.Standard Program with a term of 2-7 months.Starter Program with a term of 2-5 months To learn more about each program or find out with one would be right for your business, contact Sidwell Capital to learn more.",
+      "Cidwell Capital is proud to offer our customers a wide variety of cash advance programs. We know how important it is to get the money you need for your business fast. That’s why we work hard to provide programs that are well suited for almost any business owner. Here is a quick overview of our programs:Premier Plus Program with a term of 2-12 months.Premier Program with a term of 3-8 months.Standard Program with a term of 2-7 months.Starter Program with a term of 2-5 months To learn more about each program or find out with one would be right for your business, contact Cidwell Capital to learn more.",
   },
   {
     title: " Who is eligible for a cash advance?",
@@ -462,7 +462,7 @@ export const FAQS = [
   {
     title: " Why is a business cash advance better than a bank loan? ",
     content:
-      "Sidwell Capital does not offer short term business loans. In fact, we don’t provide any type of loan. Instead, we are a merchant cash advance resource that provides businesses with quick, easy capital. While a loan consists of an interest rate that accrues over time, we provide you with something better! A merchant cash advance does not include an interest rate but instead features a fixed cost or “factor rate” that does not change throughout the MCA duration.",
+      "Cidwell Capital does not offer short term business loans. In fact, we don’t provide any type of loan. Instead, we are a merchant cash advance resource that provides businesses with quick, easy capital. While a loan consists of an interest rate that accrues over time, we provide you with something better! A merchant cash advance does not include an interest rate but instead features a fixed cost or “factor rate” that does not change throughout the MCA duration.",
   },
   {
     title: " What are the main benefits of choosing an MCA? ",
@@ -472,7 +472,7 @@ export const FAQS = [
   {
     title: "Is applying for an MCA difficult?",
     content:
-      "Our application process is easy to fill out, and our criteria are lenient. If you are someone who struggles with low credit score and are unable to get a traditional loan because of it, odds are you will be able to get the MCA without any issues. Contact Sidwell Capital to learn more about the application process and determine if you are the right candidate for our MCA.",
+      "Our application process is easy to fill out, and our criteria are lenient. If you are someone who struggles with low credit score and are unable to get a traditional loan because of it, odds are you will be able to get the MCA without any issues. Contact Cidwell Capital to learn more about the application process and determine if you are the right candidate for our MCA.",
   },
   {
     title: "How can I pay back my advance? ",
@@ -598,12 +598,12 @@ export const MARKETPLACE_ADTS = [
 ];
 export const FAQ_AFFILIATES = [
   {
-    title: "1. What products are offered by Sidwell Capital? ",
+    title: "1. What products are offered by Cidwell Capital? ",
     content:
-      "Sidwell Capital specializes in merchant cash advances with four different program tiers on offer. In addition, we have partnered with other lenders to provide a range of funding solutions that include lines of credit, SBA loans, and invoice financing.",
+      "Cidwell Capital specializes in merchant cash advances with four different program tiers on offer. In addition, we have partnered with other lenders to provide a range of funding solutions that include lines of credit, SBA loans, and invoice financing.",
   },
   {
-    title: "2. Who is Sidwell Capital for? ",
+    title: "2. Who is Cidwell Capital for? ",
     content:
       "– Business owners with low credit scores. With a minimum required credit score of 500, borrowers with bad credit may be eligible for a merchant cash advance.",
   },
@@ -628,11 +628,11 @@ export const FAQ_AFFILIATES = [
       "Unfortunately, in order to qualify for our funding programs, businesses should fulfill the following requirements:",
   },
   {
-    title: "7. Does Sidwell Capital offer personal loans? ",
+    title: "7. Does Cidwell Capital offer personal loans? ",
     content: "No, we only serve established businesses incorporated in the U.S.",
   },
   {
-    title: "8. How long does it take for Sidwell Capital to close a deal? ",
+    title: "8. How long does it take for Cidwell Capital to close a deal? ",
     content:
       "With our easy application process and minimal documentation requirements, we can make a credit decision within the same day of receiving an application for funding. And if a merchant is approved, they can get funding in as little as 24 hours.",
   },
@@ -779,7 +779,7 @@ export const GOOGLE_REVIEWS = [
   {
     name: "Dream",
     review:
-      "I want to say Sidwell capital is an amazing company that really help my small business get funding. The process was very quick and easy and Matt Benincasa made it even more simple process for me. Being a new and small LLC, it’s very hard to get funding but Matt Benincasa and the folks at Sidwell capital made it happen. Thanks you guys for all your help and look forward to building this relationship with you all!",
+      "I want to say Cidwell capital is an amazing company that really help my small business get funding. The process was very quick and easy and Matt Benincasa made it even more simple process for me. Being a new and small LLC, it’s very hard to get funding but Matt Benincasa and the folks at Cidwell capital made it happen. Thanks you guys for all your help and look forward to building this relationship with you all!",
   },
   {
     name: "Bojan Bogetic",
@@ -802,7 +802,7 @@ export const GOOGLE_REVIEWS = [
   {
     name: "Hector",
     review:
-      "Great group of guys! (Zach &Dan) Excellent  in every way! High level of professionalism always! Treated  me and my small company with respect! Got the job done instantly, making amends to suit my needs on the fly! Where else could I have gotten excellent service like this? Nowhere! Sidwell Capital is the way to go.",
+      "Great group of guys! (Zach &Dan) Excellent  in every way! High level of professionalism always! Treated  me and my small company with respect! Got the job done instantly, making amends to suit my needs on the fly! Where else could I have gotten excellent service like this? Nowhere! Cidwell Capital is the way to go.",
   },
   {
     name: "Greg",
@@ -838,7 +838,7 @@ export const FAQ_ERC = [
   {
     title: "Why can’t I file for the ERC credit on my own?",
     content:
-      "You absolutely can! However, the process can be very complex and time-consuming. Sidwell capital understands the product extremely well. We have a team here that specializes in this program specifically and have successfully secured over $1B in refund credits for over 3,000 businesses just like yours. Our mission is to help business owners like yourself to capitalize on the benefits of the ERC program, without the extensive investment of your valuable time.",
+      "You absolutely can! However, the process can be very complex and time-consuming. Cidwell capital understands the product extremely well. We have a team here that specializes in this program specifically and have successfully secured over $1B in refund credits for over 3,000 businesses just like yours. Our mission is to help business owners like yourself to capitalize on the benefits of the ERC program, without the extensive investment of your valuable time.",
   },
   {
     title: "How long does the process take?",
@@ -848,7 +848,7 @@ export const FAQ_ERC = [
   {
     title: "Do I have to repay the ERC Credit?",
     content:
-      "At Sidwell Capital, we can help you structure the best loan for your needs. If you’re confused or need clarification about the qualifying requirements for a loan, please contact us. We’ll be happy to help.",
+      "At Cidwell Capital, we can help you structure the best loan for your needs. If you’re confused or need clarification about the qualifying requirements for a loan, please contact us. We’ll be happy to help.",
   },
 ];
 
@@ -925,7 +925,7 @@ export const FAQ_EQUIPMENTFINANCE = [
           upon the equipment and structure of the loan.
         </p>
         <p className="paragraph1">
-          Sidwell Capital can advise and assist you with finding the right kind of Equipment Loan for your business.
+          Cidwell Capital can advise and assist you with finding the right kind of Equipment Loan for your business.
         </p>
       </div>
     ),
@@ -969,7 +969,7 @@ export const FAQ_EQUIPMENTFINANCE = [
           <li>Equipment subject to obsolescence</li>
         </ul>
         <p className="paragraph1">
-          At Sidwell Capital, we can help you structure the best loan for your needs. If you’re confused or need clarification
+          At Cidwell Capital, we can help you structure the best loan for your needs. If you’re confused or need clarification
           about the qualifying requirements for a loan, please contact us. We’ll be happy to help.
         </p>
       </div>
@@ -1067,7 +1067,7 @@ export const FAQ_INVOICEFINANCE = [
           <li>Costs you more the longer your customers take to pay</li>
         </ul>
         <p className="paragraph1">
-          At Sidwell Capital, we can help you structure the best loan for your needs. If you’re confused or need clarification
+          At Cidwell Capital, we can help you structure the best loan for your needs. If you’re confused or need clarification
           about the qualifying requirements for a loan, please contact us. We’ll be happy to help.
         </p>
       </div>
@@ -1188,7 +1188,7 @@ export const FAQ_MERCHANTADVANCE = [
           <li>May be required to switch merchant service provider</li>
         </ul>
         <p className="paragraph1">
-          At Sidwell Capital, we can help you structure the best loan for your needs. If you’re confused or need clarification
+          At Cidwell Capital, we can help you structure the best loan for your needs. If you’re confused or need clarification
           about the qualifying requirements for a loan, please contact us. We’ll be happy to help.
         </p>
       </div>
@@ -1224,7 +1224,7 @@ export const FAQ_SHORTTERM = [
         <br />
         <p className="paragraph1">
           The interest and repayment requirements of short term loan rates can be calculated in different ways and
-          obviously you’ll want the calculation that is most in your favor. Our experts at Sidwell Capital can assist you with
+          obviously you’ll want the calculation that is most in your favor. Our experts at Cidwell Capital can assist you with
           finding a lender who will provide your business with the most favorable terms.
         </p>
       </div>
@@ -1275,7 +1275,7 @@ export const FAQ_SHORTTERM = [
           <li>Daily payments</li>
         </ul>
         <p className="paragraph1">
-          At Sidwell Capital, we can help you structure the best loan for your needs. If you’re confused or need clarification
+          At Cidwell Capital, we can help you structure the best loan for your needs. If you’re confused or need clarification
           about the qualifying requirements for a loan, please contact us. We’ll be happy to help.
         </p>
       </div>
@@ -1437,7 +1437,7 @@ export const FAQ_TERMLOAN = [
           property. Term loans work the same way.
         </p>
         <p className="paragraph1">
-          While these loans usually come from a bank, there are other lending institutions available. Sidwell Capital keeps a
+          While these loans usually come from a bank, there are other lending institutions available. Cidwell Capital keeps a
           comprehensive list of these lenders. Some lenders will only deal with certain types of businesses, while
           others focus on specific geographic areas.
         </p>
@@ -1453,7 +1453,7 @@ export const FAQ_TERMLOAN = [
     html: (
       <div className="flex flex-col gap-4">
         <p className="paragraph1">
-          At Sidwell Capital, we can help you structure the best loan for your needs. If you’re confused or need clarification
+          At Cidwell Capital, we can help you structure the best loan for your needs. If you’re confused or need clarification
           about the qualifying requirements for a loan, please contact us. We’ll be happy to help.
         </p>
       </div>

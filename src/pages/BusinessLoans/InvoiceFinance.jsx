@@ -124,7 +124,7 @@ const InvoiceFinance = () => {
             Stop Waiting for Payments and Access Your Working Capital
           </h1>
           <p className="w-[100%] sm:w-[65%] paragraph1">
-          Sidwell capital’s invoice funding lets you access working capital that’s tied up in accounts receivable
+          Cidwell capital’s invoice funding lets you access working capital that’s tied up in accounts receivable
             due to slow-paying customers.
             <br />
             <br />
