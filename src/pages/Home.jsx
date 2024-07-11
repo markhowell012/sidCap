@@ -14,7 +14,7 @@ const Home = () => {
 
   const [spanWidth, setSpanWidth] = useState(0);
 
-  useEffect(() => { 
+  useEffect(() => {  
     if (spanRef.current) {
       const newSpanWidth = spanRef.current.offsetWidth;
       setSpanWidth(newSpanWidth);
