@@ -115,7 +115,6 @@ const Programs = () => {
           </div>
         </div>
         <div className="flex-1 order-1">
-          <img src="/assets/images/Program_hero_02.png" alt="program-02" />
         </div>
       </div>
 

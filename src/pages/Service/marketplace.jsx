@@ -30,7 +30,6 @@ const Marketplace = () => {
           />
         </div>
         <div className="flex-1">
-          <img src="/assets/images/marketplace-01.png" alt="marketplace" />
         </div>
       </div>
 
