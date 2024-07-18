@@ -114,7 +114,7 @@ const BusinessLineCredits = () => {
       <LoanFeatures
         features={[
           { title: "LINE OF CREDIT FROM", description: "$10k - $1m" },
-          { title: "TERM AS LONG AS", description: "$10k - $1m" },
+          { title: "TERM AS LONG AS", description: "5 Years" },
           { title: "RATES AS LOW AS", description: "7%" },
           { title: "DECISIONS AS FAST AS", description: "24 hours" },
         ]}
