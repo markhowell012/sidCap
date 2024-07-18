@@ -33,7 +33,7 @@ const FooterSection3 = () => {
             whileInView="show"
             viewport={{ once: true, amount: 0.25 }}
           >
-            <span className="heading3">
+            <span style={{color: 'rgb(0,123,255)'}} className="heading3">
               No really, why wait? Let's do this!
             </span>
           </motion.p>

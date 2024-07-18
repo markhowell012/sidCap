@@ -9,12 +9,12 @@ const Programs = () => {
     <div className="marginBody mx-auto p-[10px]">
       <div className="flex flex-col md:flex-row items-center gap-10">
         <div className="flex-1">
-          <h2 className="heading1 font-normal text-light">
+          <h2 style={{color: 'rgb(0,123,255)'}} className="heading1 font-normal text-light">
             Funding options to
             <br />
             <span className="text-primary">fit your business goals</span>
           </h2>
-          <p className="paragraph2 py-5 mb-3">
+          <p style={{color: 'rgb(0,123,255)'}} className="paragraph2 py-5 mb-3">
             We offer a full suite of program types.
           </p>
           <p className="paragraph1">
@@ -38,7 +38,7 @@ const Programs = () => {
 
       <div className="py-12">
         <h1 className="heading1-primary text-center">Explore our programs</h1>
-        <p className="paragraph2 py-5 mb-3 text-center">
+        <p style={{color: 'rgb(0,123,255)'}} className="paragraph2 py-5 mb-3 text-center">
           We offer a full suite of program types.
         </p>
 
@@ -72,7 +72,7 @@ const Programs = () => {
         </div>
         <div className="w-[3px] bg-secondary" />
         <div className="flex-1 py-2 md:py-6">
-          <h2 className="heading3 mb-6">Fast decisions to keep you moving.</h2>
+          <h2 style={{color: 'rgb(0,123,255)'}} className="heading3 mb-6">Fast decisions to keep you moving.</h2>
           <p className="text-base paragraph1 leading-7">
             We have developed AI decision-making software to help automate our
             process, taking into account multiple key factors of a business to

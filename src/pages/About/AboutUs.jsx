@@ -16,7 +16,7 @@ const AboutUs = () => {
         Let’s get to know each other better
       </p>
       <div className="flex justify-center mt-5">
-        <p className="paragraph1 text-center max-w-xl">
+        <p style={{color: 'rgb(0,123,255)'}} className="paragraph1 text-center max-w-xl">
           Learn what drives our company, what our mission serves to accomplish
           and the values we embrace to accomplish our mission.
         </p>
@@ -65,7 +65,7 @@ const AboutUs = () => {
         A little <span className="text-primary">about us</span>
       </p>
 
-      <p className="p-5 paragraph2 text-center">
+      <p style={{color: 'rgb(0,123,255)'}} className="p-5 paragraph2 text-center">
         Finally, a company that cares about you
       </p>
 
@@ -91,7 +91,7 @@ const AboutUs = () => {
           <p className="heading2 font-bold text-center mt-4 sm:mt-10">
             Company Manifesto
           </p>
-          <p className="paragraph2 p-5 text-center">
+          <p style={{color: 'rgb(0,123,255)'}} className="paragraph2 p-5 text-center">
             What drives our company, what our mission serves to accomplish and
             the values we embrace to accomplish our mission.
           </p>

@@ -56,7 +56,7 @@ const HeroSection = () => {
             Business Loans <br />
             is what we do!
           </p>
-          <p className="paragraph2 mb-8 mt-4">Approved and funded the same day.</p>
+          <p style={{color: 'rgb(0,123,255)'}} className="paragraph2 mb-8 mt-4">Approved and funded the same day.</p>
           <p className="paragraph1"></p>
           <Button
             icon={<FiArrowRight font="white" fontWeight={600} />}
