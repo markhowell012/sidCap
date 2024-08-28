@@ -295,7 +295,7 @@ const Policy = () => {
           <br />
           You may use the following information to contact us with any questions
           or concerns about this Privacy Policy: <br />
-          212-548-6541- <br />
+          929-445-4547- <br />
           info@Cidwellcapital.com
         </p>
       </div>

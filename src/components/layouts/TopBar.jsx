@@ -7,7 +7,7 @@ const TopBar = () => {
         Welcome to <strong>Cidwell Capital</strong>. Business funding is what we do.
       </span>
       <div className="flex items-center justify-center gap-10 whitespace-nowrap">
-        <span>212-548-6541</span>
+        <span>929-445-4547</span>
         <span>175 5th Ave, New York, NY 10010</span>
       </div>
     </div>

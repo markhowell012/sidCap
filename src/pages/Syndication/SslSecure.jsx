@@ -58,7 +58,7 @@ const OnboardingSSl = () => {
         <div>
           <p className="text-[10px] text-black">
             Copyright © 2023 All Rights Reserved by Cidwell Capital •Terms of Use
-            •Privacy Policy • Call: 212-548-6541 • 175 5th Av, New York, NY
+            •Privacy Policy • Call: 929-445-4547 • 175 5th Av, New York, NY
             10010
           </p>
         </div>

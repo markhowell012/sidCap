@@ -53,7 +53,7 @@ const FooterSection3 = () => {
       <div className="marginBody grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 w-full">
         <CardFooter
           title="Phone"
-          description="212-548-6541"
+          description="929-445-4547"
           icon={<MdPhoneEnabled />}
         />
         <CardFooter

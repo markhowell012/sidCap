@@ -45,7 +45,7 @@ const HeroSection = () => {
 
         </div>
         <div className="flex items-center gap-3">
-          <p className="paragraph2 ">212-548-6541</p>
+          <p className="paragraph2 ">929-445-4547</p>
           <FaPhone size={24} />
         </div>
       </div>
